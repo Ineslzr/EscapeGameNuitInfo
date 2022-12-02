@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@jaredreisinger/react-crossword": "^4.3.2"
+  }
+}
